@@ -12,3 +12,19 @@ https://www.kaggle.com/c/titanic
 
 El contingut d'aquest projecte és llicència sota la Creative Cmmons Attributions-NonCommercial-ShareAlike 4.0 International, i el codi font utilitzat per mostrar aquest contingut és llicenciat sota la MIT licence.
 
+## Fitxers
+
+Titanic.ipynb
+L'arxiu en codi Python.
+
+TITANIC.pdf
+Arxiu en pdf on hi ha les respostes a les preguntes.
+
+Titanic.html
+Visualització del codi Python en html.
+
+Carpeta Data
+Dades descarregades de kaggle.
+
+Carpeta Processed
+Dades ja processades extretes de l'arxiu en Python
